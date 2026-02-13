@@ -1,5 +1,6 @@
 # EarnGit
-<img width="1500" height="500" alt="Untitled design (43)" src="https://github.com/user-attachments/assets/cd99aad6-fd2b-4d19-bc13-53acf200b286" />
+<img width="575" height="290" alt="image" src="https://github.com/user-attachments/assets/c4e7d71c-c3c8-4a76-bcaf-0d14c9275054" />
+>
 
 
 CA :
