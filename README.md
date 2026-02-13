@@ -51,7 +51,6 @@ No GitHub ownership → no claim.
 This removes guesswork, trust assumptions, and impersonation.
 
 Verification Model
-------------------------------------------------------------------------------------------------------------
 EarnGit verifies:
 ------------------------------------------------------------------------------------------------------------
 repository ownership
