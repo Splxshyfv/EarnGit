@@ -14,7 +14,7 @@ No misattributed rewards.
 ------------------------------------------------------------------------------------------------------------
 Problem
 ------------------------------------------------------------------------------------------------------------
-Over the past weeks, there has been a surge of GitHub repositories launching tokens on platforms like pump.fun and bags.fm.
+Over the past week, there has been a surge of GitHub repositories launching tokens on platforms like pump.fun and bags.fm.
 
 This has created several recurring issues:
 
