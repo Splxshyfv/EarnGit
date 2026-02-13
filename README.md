@@ -12,8 +12,8 @@ Only authors can claim.
 No impersonation.
 No misattributed rewards.
 ------------------------------------------------------------------------------------------------------------
-
 Problem
+------------------------------------------------------------------------------------------------------------
 Over the past weeks, there has been a surge of GitHub repositories launching tokens on platforms like pump.fun and bags.fm.
 
 This has created several recurring issues:
@@ -25,8 +25,9 @@ X accounts linked that are not owned by the actual repository author
 In many cases, the real developer receives nothing, while someone else captures the fees.
 
 EarnGit exists to fix this.
-
+------------------------------------------------------------------------------------------------------------
 What EarnGit Does
+------------------------------------------------------------------------------------------------------------
 EarnGit combines repository verification with token deployment and fee attribution.
 
 It allows you to:
